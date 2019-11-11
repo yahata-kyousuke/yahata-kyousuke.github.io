@@ -1,6 +1,2 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>TEST</h1>
-</body>
-</html>
+cd yahata-kyousuke.github.io
+~$echo "Hello World" > index.html
